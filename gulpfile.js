@@ -22,8 +22,8 @@ var DIST_DIR = 'dist';
 var DIST = {
     css:            DIST_DIR + '/css',
     js:             DIST_DIR + '/js',
-    outputCssName:  'sidebar_listing',
-    outputJsName:   'sidebar_listing'
+    outputCssName:  'simple_carousel',
+    outputJsName:   'simple_carousel'
 };
     
 gulp.task('styles', function () {

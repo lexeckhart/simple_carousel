@@ -1,13 +1,13 @@
 {
-  "name": "simple_listing",
+  "name": "simple_carousel",
   "version": "1.0.0",
-  "description": "A simple, resposive listing page with filters",
+  "description": "A simple, resposive carousel plugin",
   "authors": [
     "Alexander Eckhart <alexander.eckhart@chateaunoir.ro>"
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:lexeckhart/simple_listing.git"
+    "url": "https://github.com/lexeckhart/simple_carousel.git"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
